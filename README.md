@@ -86,5 +86,7 @@ This project is licensed under the **MIT License** – you are free to use, modi
 
 👤 Author
 Mahnoor Sohail
+
 GitHub:mahnooroshail418-collab
+
 📧 Email::mahnoorsohail1418@gmail.com
